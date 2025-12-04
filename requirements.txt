@@ -17,4 +17,4 @@ spotipy
 tgcrypto
 youtube-search
 youtube-search-python
-yt-dlp
+yt-dlp==2023.07.06
